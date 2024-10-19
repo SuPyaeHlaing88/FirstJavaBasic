@@ -1,2 +1,2 @@
 <h1>Basic Java Concepts</h1>
-It is used with simple java.
+It were only used with simple java.
